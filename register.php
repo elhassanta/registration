@@ -61,7 +61,7 @@
 
                         <div class="form-check form-check-inline">
                             <input type="checkbox" name="agreement" class="form-check-input" required>
-                            <label for="agreement" class="form-check-label font-ubuntu text-black-50">I agree <a href="#">term, conditions, and policy </a>(*) </label>
+                            <label for="agreement" class="form-check-label font-ubuntu text-black-50">I agree <a href="terms_conditions.php">term, conditions, and policy </a>(*) </label>
                         </div>
 
                         <div class="submit-btn text-center my-5">
